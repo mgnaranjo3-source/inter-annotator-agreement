@@ -1,0 +1,21 @@
+item_id,text,annotator_1,annotator_2,agree
+1,"Fast shipping, great quality.",POS,POS,yes
+2,"Arrived broken.",NEG,NEG,yes
+3,"The box is blue.",NEU,NEU,yes
+4,"Not bad at all.",POS,NEU,no
+5,"Terrible support, never again.",NEG,NEG,yes
+6,"Works as described.",NEU,POS,no
+7,"I love it!",POS,POS,yes
+8,"Took three weeks to arrive.",NEG,NEG,yes
+9,"It's okay.",NEU,NEU,yes
+10,"Great, another broken update.",NEG,POS,no
+11,"Perfect fit.",POS,POS,yes
+12,"Refund processed today.",NEU,NEU,yes
+13,"Would buy again.",POS,POS,yes
+14,"Battery dies in an hour.",NEG,NEG,yes
+15,"Delivered on Monday.",NEU,NEU,yes
+16,"Five stars!",POS,POS,yes
+17,"Not what I expected.",NEG,NEU,no
+18,"Customer service fixed it quickly.",POS,POS,yes
+19,"Price went up again.",NEG,NEG,yes
+20,"Does it come in red?",NEU,NEG,no
